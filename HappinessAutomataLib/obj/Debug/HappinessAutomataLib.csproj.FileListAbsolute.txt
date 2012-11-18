@@ -1,0 +1,4 @@
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomataLib\bin\Debug\HappinessAutomataLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomataLib\bin\Debug\HappinessAutomataLib.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomataLib\obj\Debug\HappinessAutomataLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomataLib\obj\Debug\HappinessAutomataLib.pdb

@@ -1,0 +1,10 @@
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\bin\Debug\HappinessAutomata.exe
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\bin\Debug\HappinessAutomata.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.Form1.resources
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.exe
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\obj\x86\Debug\HappinessAutomata.csprojResolveAssemblyReference.cache
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\bin\Debug\HappinessAutomataLib.dll
+C:\Users\Home\documents\visual studio 2010\Projects\HappinessAutomata\HappinessAutomata\bin\Debug\HappinessAutomataLib.pdb
