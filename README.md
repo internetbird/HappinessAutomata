@@ -1,4 +1,4 @@
-HappinessAutomata
+Happiness Automata
 =================
 
 This WinForms application simulates a cell automata with the following given rules:
