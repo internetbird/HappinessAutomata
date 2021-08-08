@@ -7,5 +7,4 @@ This WinForms application simulates a cell automata with the following given rul
 2. Every human (man or woman) has a unique integer value that represents their character.
 3. The humans move across the board and try to form couples.
 
-![Alt text]( http://dev-community.com/blog/wp-content/uploads/2012/11/HappinessAutomata.jpg "Happiness Automata")
 
